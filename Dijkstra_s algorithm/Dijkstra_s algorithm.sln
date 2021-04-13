@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra's algorithm", "Dijkstra's algorithm\Dijkstra's algorithm.csproj", "{A5C9A6B5-EEA8-4E0B-B3F0-DD8F4033945D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5C9A6B5-EEA8-4E0B-B3F0-DD8F4033945D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C9A6B5-EEA8-4E0B-B3F0-DD8F4033945D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C9A6B5-EEA8-4E0B-B3F0-DD8F4033945D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C9A6B5-EEA8-4E0B-B3F0-DD8F4033945D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {301385A2-D536-4018-835C-97224892C875}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\4 семак-20200324T172124Z-001\4 семак\Дискра\Dijkstra's algorithm\Dijkstra's algorithm\bin\Debug\Dijkstra's algorithm.exe.config
+D:\4 семак-20200324T172124Z-001\4 семак\Дискра\Dijkstra's algorithm\Dijkstra's algorithm\bin\Debug\Dijkstra's algorithm.exe
+D:\4 семак-20200324T172124Z-001\4 семак\Дискра\Dijkstra's algorithm\Dijkstra's algorithm\bin\Debug\Dijkstra's algorithm.pdb
+D:\4 семак-20200324T172124Z-001\4 семак\Дискра\Dijkstra's algorithm\Dijkstra's algorithm\obj\Debug\Dijkstra's algorithm.csprojAssemblyReference.cache
+D:\4 семак-20200324T172124Z-001\4 семак\Дискра\Dijkstra's algorithm\Dijkstra's algorithm\obj\Debug\Dijkstra_s_algorithm.Form1.resources
+D:\4 семак-20200324T172124Z-001\4 семак\Дискра\Dijkstra's algorithm\Dijkstra's algorithm\obj\Debug\Dijkstra_s_algorithm.Properties.Resources.resources
+D:\4 семак-20200324T172124Z-001\4 семак\Дискра\Dijkstra's algorithm\Dijkstra's algorithm\obj\Debug\Dijkstra's algorithm.csproj.GenerateResource.cache
+D:\4 семак-20200324T172124Z-001\4 семак\Дискра\Dijkstra's algorithm\Dijkstra's algorithm\obj\Debug\Dijkstra's algorithm.csproj.CoreCompileInputs.cache
+D:\4 семак-20200324T172124Z-001\4 семак\Дискра\Dijkstra's algorithm\Dijkstra's algorithm\obj\Debug\Dijkstra's algorithm.exe
+D:\4 семак-20200324T172124Z-001\4 семак\Дискра\Dijkstra's algorithm\Dijkstra's algorithm\obj\Debug\Dijkstra's algorithm.pdb
