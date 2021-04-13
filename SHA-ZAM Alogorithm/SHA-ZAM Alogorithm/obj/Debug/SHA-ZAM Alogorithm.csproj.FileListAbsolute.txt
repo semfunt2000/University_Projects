@@ -1,0 +1,9 @@
+D:\5 семестр\Инфобез\Курсовой проект\SHA-ZAM Alogorithm\SHA-ZAM Alogorithm\obj\Debug\SHA-ZAM Alogorithm.csprojAssemblyReference.cache
+D:\5 семестр\Инфобез\Курсовой проект\SHA-ZAM Alogorithm\SHA-ZAM Alogorithm\obj\Debug\SHA_ZAM_Alogorithm.Form1.resources
+D:\5 семестр\Инфобез\Курсовой проект\SHA-ZAM Alogorithm\SHA-ZAM Alogorithm\obj\Debug\SHA_ZAM_Alogorithm.Properties.Resources.resources
+D:\5 семестр\Инфобез\Курсовой проект\SHA-ZAM Alogorithm\SHA-ZAM Alogorithm\obj\Debug\SHA-ZAM Alogorithm.csproj.GenerateResource.cache
+D:\5 семестр\Инфобез\Курсовой проект\SHA-ZAM Alogorithm\SHA-ZAM Alogorithm\bin\Debug\SHA-ZAM Alogorithm.exe.config
+D:\5 семестр\Инфобез\Курсовой проект\SHA-ZAM Alogorithm\SHA-ZAM Alogorithm\bin\Debug\SHA-ZAM Alogorithm.exe
+D:\5 семестр\Инфобез\Курсовой проект\SHA-ZAM Alogorithm\SHA-ZAM Alogorithm\bin\Debug\SHA-ZAM Alogorithm.pdb
+D:\5 семестр\Инфобез\Курсовой проект\SHA-ZAM Alogorithm\SHA-ZAM Alogorithm\obj\Debug\SHA-ZAM Alogorithm.exe
+D:\5 семестр\Инфобез\Курсовой проект\SHA-ZAM Alogorithm\SHA-ZAM Alogorithm\obj\Debug\SHA-ZAM Alogorithm.pdb
